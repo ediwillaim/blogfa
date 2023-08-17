@@ -1,0 +1,42 @@
+.logo-blogfa{
+    width: 157px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+.img--top-main {
+    background-image: url("backpattern.png");
+    background-size: cover;
+    height: 260px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.button--middle {
+    text-align: center;
+}
+
+.btn{
+    width: 140px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 13px;
+}
+
+.p-class {
+    margin-top: 10px;
+}
+
+.bg-secondary {
+    background-color: rgb(211, 215, 219) !important;
+}
+
+.w-33 {
+    width: 30%;
+}
+
+.footer {
+    margin-top: 20px;
+}
